@@ -42,7 +42,7 @@ Antes de ejecutar el script, necesitas instalar Python y configurar tu entorno d
     print("Tkinter está instalado correctamente")
 
 --------------------------------------------------------------------------------
-# Personalización
+### Personalización
 Si quieres personalizar la estructura de los proyectos para otros lenguajes o agregar más carpetas y archivos, puedes editar el archivo config.json. El formato es fácil de entender y modificar.
 
 --------------------------------------------------------------------------------
